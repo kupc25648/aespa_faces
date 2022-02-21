@@ -35,3 +35,6 @@ Train and Validation data are .npz files
 Or you can download raw files from 
 
 https://drive.google.com/drive/folders/1KVAuNYk3OHEvHlKNmMeV1dyMvOZXN8vg?usp=sharing
+
+# Example
+<img src="src/test.png">
