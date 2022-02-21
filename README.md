@@ -7,17 +7,17 @@ If run on google colab
 
 1. Create a folder and Upload data file into your Google Drive
 
-2. Run the scipt before this program
+2. Run this scipt before this program
 
-from google.colab import drive
+    from google.colab import drive
 
-drive.mount('/content/gdrive')
+    drive.mount('/content/gdrive')
 
-import os
+    import os
 
-os.chdir('gdrive/MyDrive/[Your folder name]')
+    os.chdir('gdrive/MyDrive/[Your folder name]')
 
-!pip install mtcnn
+    !pip install mtcnn
 
-!pip install keras-facenet
+    !pip install keras-facenet
 
